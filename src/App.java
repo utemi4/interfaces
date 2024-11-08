@@ -53,6 +53,9 @@ public class App {
         // System.out.println(book.equals(other));
         // System.out.println(book.name());
         // System.out.println(book.price());
+
+        // Special for GitHub
+        System.out.println("Hello, GitHub!");
     }
 }
 
